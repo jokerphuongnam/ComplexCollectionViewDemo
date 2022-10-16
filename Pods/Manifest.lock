@@ -1,0 +1,20 @@
+PODS:
+  - CardSlider (0.1.0)
+  - Kingfisher (7.3.2)
+
+DEPENDENCIES:
+  - CardSlider
+  - Kingfisher (~> 7.0)
+
+SPEC REPOS:
+  trunk:
+    - CardSlider
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  CardSlider: 0a8f5f17f5a76701771794b07fdaeddc512358c8
+  Kingfisher: 0086ad83719761ba9b2cdaf6ef4d5b4878cbae23
+
+PODFILE CHECKSUM: 4a688507c65179fbf34664516b2503f03f6ffe55
+
+COCOAPODS: 1.11.2
